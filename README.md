@@ -1,0 +1,2 @@
+# scala-app
+testing
